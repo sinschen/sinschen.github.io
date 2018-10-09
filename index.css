@@ -1,0 +1,9 @@
+body,html{
+	height: 98%;
+}
+.container{
+	height: 100%;
+	background: url("http://pic.58pic.com/58pic/13/56/96/85r58PICQpz_1024.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
